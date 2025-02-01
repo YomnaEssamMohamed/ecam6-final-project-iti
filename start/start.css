@@ -303,11 +303,14 @@ body {
 
 @media (max-width: 770px) {
   .container {
-    max-width: 100%;
+    max-width: 65%;
     height: 920px;
     padding: 5%;
     margin: auto;
     /* margin-top: 100px; */
+  }
+  #question{
+    font-size: 20px;
   }
 
   #quiz-container {
@@ -353,8 +356,9 @@ body {
   #quiz-flag {
      position: relative;
      top: 20px;
+     margin: auto;
     height: auto;
-    width: 80%;
+    width: 60%;
     min-height: 100px;
     padding: 10px;
     background-color: #09001d;
@@ -365,5 +369,8 @@ body {
     height: 300px;
   }
 
+  .start-btn{
+    padding: 10px 110px;
+  }
 }
- 
+  
