@@ -365,12 +365,12 @@ body {
   }
 
   #start-exam-animate{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
   }
 
   .start-btn{
-    padding: 10px 110px;
+    padding: 10px 50px;
   }
 }
   
